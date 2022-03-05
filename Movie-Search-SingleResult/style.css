@@ -19,20 +19,16 @@ h1, h2, p, ul {
 h1:not(:last-child), h2:not(:last-child), p:not(:last-child), ul:not(:last-child) {
   margin-bottom: 12px;
 }
-
 p, li {
   font-size: 0.9em;
   line-height: 1.5;
 }
-
 p + ul {
   margin-top: -10px;
 }
-
 h1, h2, strong {
   font-weight: 900;
 }
-
 input {
   padding: 6px;
   font-family: "Lato", sans-serif;
@@ -74,7 +70,6 @@ input {
   margin: auto;
   width:50%;
 }
-
 .movie__tags {
   font-size: 0.75em;
   color: rgb(255, 255, 255);
@@ -85,7 +80,6 @@ input {
   margin-right: 12px;
   width: 200px;
 }
-
 .movie__poster--fill {
   position: absolute;
   overflow: hidden;
@@ -139,7 +133,6 @@ input {
   padding-top: 60px;
   padding-bottom: 80px;
 }
-
 .movie__title {
   font-family: "Lato", sans-serif;
   font-size: 2em;
