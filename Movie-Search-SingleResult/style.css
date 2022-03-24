@@ -29,6 +29,7 @@ p + ul {
 h1, h2, strong {
   font-weight: 900;
 }
+
 input {
   padding: 6px;
   font-family: "Lato", sans-serif;
