@@ -47,6 +47,7 @@ form input {
 form input:focus {
     outline: none;
 }
+
 form button {
     border: 0px;
     background-color: rgb(255, 103, 103);
@@ -87,6 +88,7 @@ form button:active {
 .image-container {
     flex: 4;
 }
+
 .bg-image {
     background-size: cover;
     background-repeat: no-repeat;
@@ -94,6 +96,7 @@ form button:active {
     width: 100%;
     height: 100%;
 }
+
 .movie-info {
     display: flex;
     flex: 3;
